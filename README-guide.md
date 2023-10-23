@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/Khalid-R-Salis/results-summary-component-main-ass5)
+- Live Site URL:(https://khalid-r-salis-product-preview-card-component.vercel.app/)
 
 ## My process
 
@@ -37,10 +37,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Desktop-first workflow
+
 
 
 To see how you can add code snippets, see below:
