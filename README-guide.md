@@ -1,17 +1,15 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 - [Author](#author)
-
-
 
 ### The challenge
 
@@ -22,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-design.jpg)
+![desktop view](./screenshots/desktop.png)
 
 ### Links
 
@@ -39,13 +37,12 @@ Users should be able to:
 - CSS Grid
 - Desktop-first workflow
 
-
-
 To see how you can add code snippets, see below:
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
 ```
+
 ```css
 
 
@@ -54,3 +51,4 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ## Author
 
 - Frontend Mentor - [@Khalid Rabiu Salis](https://www.frontendmentor.io/profile/Khalid-R-Salis)
+```
