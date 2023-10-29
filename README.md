@@ -31,19 +31,18 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
+- HTML5
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Desktop-first workflow
 
-To see how you can add code snippets, see below:
-
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div class = "new1 new2">Two Classes in single tag </div>
 ```
 
 ```css
+.container{
+display: flex}
 
 
 If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more
